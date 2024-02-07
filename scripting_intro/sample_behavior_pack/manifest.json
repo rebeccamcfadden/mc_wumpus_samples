@@ -1,0 +1,47 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "My first scripting project!",
+    "name": "Scripting Hello World",
+    "uuid": "3958f9a2-96e4-4db0-a907-145d065cd7f0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "My first scripting project!",
+      "type": "data",
+      "uuid": "1b85a99a-bfeb-481d-8a77-b5cda182e7d3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+    // ,{
+    //     "type": "script",
+    //     "uuid": "dc1e0ea9-94c5-4fa6-b5e5-553c47cf588c",
+    //     "version": [
+    //         1,
+    //         0,
+    //         0
+    //     ],
+    //     "language": "javascript",
+    //     "entry": "scripts/main.js"
+    // }
+  ],
+    "dependencies": [
+      // {
+      //     "module_name": "@minecraft/server",
+      //     "version": "1.2.0"
+      // }
+   ]
+}
