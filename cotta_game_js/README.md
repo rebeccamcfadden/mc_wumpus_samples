@@ -10,9 +10,9 @@ Visit the [Visual Studio Code website](https://code.visualstudio.com) and instal
 
 ## Getting Started
 
-1. Download a copy of the starter project from GitHub by visiting [https://github.com/rebeccamcfadden/mc_wumpus_samples](https://github.com/rebeccamcfadden/mc_wumpus_samples) and, under the Code button, selecting `Download ZIP`. (You can also use this [direct download link](https://download-directory.github.io/?url=https://github.com/rebeccamcfadden/mc_wumpus_samples/tree/main/cotta_game_js)). 
+1. Download a copy of the starter project from GitHub by visiting [https://github.com/rebeccamcfadden/mc_wumpus_samples](https://github.com/rebeccamcfadden/mc_wumpus_samples) and, under the Code button, selecting `Download ZIP`. (You can also use this [direct download link](https://download-directory.github.io/?url=https://github.com/rebeccamcfadden/mc_wumpus_samples/tree/main/cotta_game_js/starterbp_js)). 
 
-2. The `cotta_game_js` folder contains a starter TypeScript project for Minecraft.  Note that there is a `cotta_game_complete_js` folder that will show you the finished product and code. Do try to complete the sample yourself, as it will help you understand the basics of scripting in Minecraft.
+2. The `cotta_game_js` folder contains a starter JavaScript project for Minecraft (`starterbp_js`). Note that there is a `starterbp_js_complete` folder that will show you the finished product and code (WIP - coming soon). Do try to complete the sample yourself, as it will help you understand the basics of scripting in Minecraft.
 
 3. Unzip the downloaded pack into the `%appdata%\Minecraft Education Edition\games\com.mojang\development_behavior_packs` folder.
 
@@ -20,7 +20,7 @@ If you haven't already, you can install the Minecraft Debugger and Blockception'
 
 ### Chapter 1. Customize the behavior pack
 
-Go to the Files tree view and open `behavior_packs\starterbp_js\manifest.json`
+Go to the Files tree view and open `starterbp_js\manifest.json`
 
 Update the name and description properties to something like "Cotta Behavior Pack" and "My Javascript Project".
 
