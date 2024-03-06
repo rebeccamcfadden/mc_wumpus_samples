@@ -3,7 +3,7 @@ Resources from the Spring 2024 Minecraft Scripting Wumpus project
 
 ## Index:
 - [template_behavior_pack](template_behavior_pack)
-    - An empty starter behavior pack template and setup instructions - see the [template_behavior_pack/mc_wumpus_template](template_behavior_pack/mc_wumpus_template/README.md) for more info.
+    - An empty starter behavior pack template and setup instructions - see the [mc_wumpus_template](https://github.com/rebeccamcfadden/mc_wumpus_template.git) repo for more info.
 - [cotta_game_js](cotta_game_js)
     - A more detailed starter game tutorial.
 - [resources](resources)
