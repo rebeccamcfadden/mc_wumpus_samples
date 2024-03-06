@@ -1,3 +1,6 @@
 [submodule "template_behavior_pack/mc_wumpus_template"]
 	path = template_behavior_pack/mc_wumpus_template
 	url = ../mc_wumpus_template.git
+[submodule "template_behavior_pack/mc_wumpus_stubs"]
+	path = template_behavior_pack/mc_wumpus_stubs
+	url = ../mc_wumpus_stubs.git
