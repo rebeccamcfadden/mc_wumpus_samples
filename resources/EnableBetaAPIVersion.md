@@ -46,3 +46,10 @@ To be able to read and modify `.dat` files, you will need a text editor that can
     - If using the Default view, you will need to click on the `experiments` entry to expand it and then use the `Add Tag` button at the top left to add a new entry with the key `gametest` and the value `1b`.
 
 After making these changes, you should be able to use the 1.4.0-beta version of the Script API in your world. If you encounter any issues, you can revert the changes to the `level.dat` file and switch back to the 1.3.0 version of the `@minecraft/server` module (and version 1.1.0 of `@minecraft/server-ui`).
+
+## More tips
+The [script API reference](https://learn.microsoft.com/en-us/minecraft/creator/scriptapi/?view=minecraft-bedrock-stable) is a great resource to view details on the methods and classes available in all versions of the scripting API. 
+
+However, to see more accurate information on what classes and methods are available in specific versions, you can use the npm package page to browse the `index.d.ts` file for definitions of every class and method implemented in a given version.
+- [1.4.0-beta](https://www.npmjs.com/package/@minecraft/server/v/1.4.0-beta.1.20.10-stable?activeTab=code)
+- [1.3.0](https://www.npmjs.com/package/@minecraft/server/v/1.3.0?activeTab=code)
