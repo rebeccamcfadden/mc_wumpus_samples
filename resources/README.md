@@ -8,3 +8,4 @@ WIP documentation for Wumpus Scripting help
 ## Docs
 - [How to enable content logging](./EnablingContentLog.md)
 - [How to set up the Minecraft Debugger vscode plugin](./MinecraftDebuggerSetup.md)
+- [How to upgrade your script module version to 1.4.0-beta](./EnableBetaAPIVersion.md)
