@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Stubbed scripting project!",
+    "name": "Wumpus Scripting Stubs",
+    "uuid": "76cf52d4-afc4-41ed-9e74-7bd6ccb3c9fe",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "description": "My second scripting project!",
+      "type": "data",
+      "uuid": "10b0b426-238e-447b-a034-ea4b7b909487",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "uuid": "2a1f0360-73e4-405f-9053-7fe7373555aa",
+      "version": [1, 0, 0],
+      "language": "javascript",
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.4.0-beta"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "1.2.0-beta"
+    }
+  ]
+}
